@@ -1,1 +1,2 @@
-# project-1_tic-tac-toe-game
+This is tic tac toe game project 
+like this vide:)
